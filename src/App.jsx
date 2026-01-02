@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/pages/Hero"
+import RecipeCard from "./components/pages/RecipeCard"
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
       
        <Navbar></Navbar>
        <Hero></Hero>
+       <RecipeCard></RecipeCard>
 
     </>
   )
