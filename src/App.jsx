@@ -1,8 +1,12 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./components/pages/Navbar"
 import Hero from "./components/pages/Hero"
+import OurRecipes from "./components/pages/OurRecipes"
 import RecipeCard from "./components/pages/RecipeCard"
 
+
 function App() {
+   
+
   
 
   return (
@@ -10,7 +14,10 @@ function App() {
       
        <Navbar></Navbar>
        <Hero></Hero>
+       <OurRecipes></OurRecipes>
        <RecipeCard></RecipeCard>
+       
+       
        
 
     </>

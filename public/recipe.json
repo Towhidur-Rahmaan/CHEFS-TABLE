@@ -1,0 +1,91 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f",
+    "short_description": "Classic Italian pasta dish with a rich and savory meat sauce.",
+    "ingredients": [
+      "500 g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic",
+      "400 g tomato sauce",
+      "200 g spaghetti",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": "30 min",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Chicken Caesar Salad",
+    "recipe_image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "short_description": "Fresh Caesar salad topped with grilled chicken and creamy dressing.",
+    "ingredients": [
+      "300 g chicken breast",
+      "1 head romaine lettuce",
+      "50 g parmesan cheese",
+      "100 ml Caesar dressing",
+      "50 g croutons",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": "20 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Croque Monsieur",
+    "recipe_image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "short_description": "Classic French grilled sandwich with ham, cheese, and béchamel sauce.",
+    "ingredients": [
+      "4 slices bread",
+      "2 slices ham",
+      "100 g gruyère cheese",
+      "50 ml béchamel sauce",
+      "20 g butter"
+    ],
+    "preparing_time": "15 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Crêpes (Savory & Sweet)",
+    "recipe_image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+    "short_description": "Popular French street food that can be enjoyed sweet or savory.",
+    "ingredients": [
+      "200 g flour",
+      "2 eggs",
+      "300 ml milk",
+      "30 g butter",
+      "Sugar or salt (to taste)"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Jambon-Beurre",
+    "recipe_image": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56",
+    "short_description": "Simple and iconic French sandwich made with baguette, butter, and ham.",
+    "ingredients": [
+      "1 baguette",
+      "50 g butter",
+      "100 g ham"
+    ],
+    "preparing_time": "10 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "French Fries (Frites)",
+    "recipe_image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5",
+    "short_description": "Golden and crispy deep-fried potatoes, a popular fast food.",
+    "ingredients": [
+      "500 g potatoes",
+      "1 liter cooking oil",
+      "Salt to taste"
+    ],
+    "preparing_time": "15 min",
+    "calories": "400 calories"
+  }
+]
+

@@ -19,8 +19,8 @@ const Hero = () => {
             </div>
 
           <div className="mt-6 ml-102 pt-10 flex gap-4 ">
-          <button className="btn btn-success bg-green-500 rounded-3xl p-3 font-bold">Explore Now</button>
-          <button className="btn btn-outline text-white outline-2 rounded-full p-3">Our Feedback</button>
+          <button className="px-6 py-3 bg-green-500 font-semibold rounded-full shadow-md transition-all duration-300 ease-in-out hover:bg-green-600 hover:shadow-xl hover:translate-y-1 active:scale-95">Explore Now</button>
+          <button className="btn outline-1 px-6 text-white outline-2px-6 py-3 semibold rounded-full shadow-md transition-all duration-300 ease-in-out  hover:shadow-xl hover:translate-y-1 active:scale-95">Our Feedback</button>
         </div>   
                 
             </div>
