@@ -33,6 +33,7 @@ const Recipe = ({recipe, handleWantToCook}) => {
                 </div>
                 <div>
                     <button 
+                    type="button"
                     onClick={ () => handleWantToCook(recipe)}
                     className="px-6 py-3 mt-6 mb-6 bg-green-500 font-semibold rounded-full shadow-md transition-all duration-300 ease-in-out hover:bg-green-600 hover:shadow-xl hover:translate-y-1 active:scale-95">want to cook</button>
                 </div>
